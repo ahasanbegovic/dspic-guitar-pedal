@@ -45,11 +45,11 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -121,7 +121,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OXLXSBMC
 
 [Document6]
 DocumentPath=..\LM324N\Imported LM324N.lia\LM324N.SchLib
@@ -155,7 +155,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AGSPGVXG
 
 [Document8]
 DocumentPath=..\LM7805CT_NOPB\Imported LM7805CT_NOPB.lia\LM7805CT_NOPB.SchLib
@@ -172,7 +172,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TIKGONQV
 
 [Document9]
 DocumentPath=..\MCP4921-E_P\Imported MCP4921-E_P.lia\MCP4921-E_P.PcbLib
@@ -189,7 +189,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UMYUHUUE
 
 [Document10]
 DocumentPath=..\MCP4921-E_P\Imported MCP4921-E_P.lia\MCP4921-E_P.SchLib
@@ -207,6 +207,27 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document11]
+DocumentPath=GuitarPedalJob.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for GuitarPedal\Design Rule Check - GuitarPedal.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

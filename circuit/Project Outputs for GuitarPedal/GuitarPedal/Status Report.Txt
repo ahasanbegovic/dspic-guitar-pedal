@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 18:55:05 On 17/10/2019
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [GuitarPedal.PcbDoc]
+   Generated File[GuitarPedal.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:55:05 On 17/10/2019
