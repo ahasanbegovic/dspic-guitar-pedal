@@ -7,7 +7,7 @@ The circuit is designed using Altium Designer v17.1.5 Build 472. It is based aro
 
 ## Code
 
-Written using Mikroelektronika mikroC PRO for dsPIC v7.1.0. Programmed using a programmer designed and sold by Mikroelektronika (see Resources for documentation).
+The code is written using Mikroelektronika mikroC PRO for dsPIC v7.1.0. The dsPIC is programmed using a USB programmer designed and sold by Mikroelektronika (see Resources for documentation). The template of the code is written in C and given in the `code` directory.
 
 ## Resources
 
