@@ -7,10 +7,6 @@ The circuit is designed using `Altium Designer v17.1.5 Build 472`. It is based a
 
 ![Schematic](circuit/figures/schematic.png)
 
-A two-layer PCB is designed and documented. The top and bottom layers, as well as a preview of the component layout, are given below.
-
-![Top layer](circuit/figures/top_layer.png) ![Bottom layer](circuit/figures/bottom_layer.png) ![Assembly](circuit/figures/assembly.png)
-
 Industry-standard output files can be found in `circuit/Project Outputs for GuitarPedal`.
 
 ## Code
