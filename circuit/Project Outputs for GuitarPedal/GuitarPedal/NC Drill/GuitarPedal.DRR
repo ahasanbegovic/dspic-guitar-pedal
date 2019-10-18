@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: GuitarPedal.PcbDoc   18/10/2019  13:11:21
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : GuitarPedal.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             5         PTH        6.80inch (172.84mm)
+T2      28mil (0.7mm)                                             Round             18        PTH        16.51inch (419.45mm)
+T3      33mil (0.85mm)                                            Round             34        PTH        21.09inch (535.58mm)
+T4      35mil (0.9mm)                                             Round             116       PTH        29.32inch (744.67mm)
+T5      39mil (0.991mm)                                           Round             8         PTH        1.30inch (33.02mm)
+T6      44mil (1.118mm)                                           Round             14        PTH        1.50inch (38.10mm)
+T7      49mil (1.24mm)                                            Round             3         PTH        0.20inch (5.08mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              198
+
+Total Processing Time (hh:mm:ss) : 00:00:00

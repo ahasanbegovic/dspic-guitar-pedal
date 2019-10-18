@@ -1,0 +1,58 @@
+Altium Designer Pick and Place Locations
+C:\Users\arman\Documents\ETF\PMBS\Altium\GuitarPedal\Project Outputs for GuitarPedal\GuitarPedal\Pick Place\Pick Place for GuitarPedal.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       18/10/19
+Time:       13:03
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment       Layer    Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                    
+U2         MCP4921-E/P   TopLayer *DIP254P762X432-8      3353.937      1031.102      180      "MCP4921 Series 1 Ch 12-Bit Voltage Output Digital-to-Analog Converter-PDIP-8" 
+C1         "Cap Pol1"    TopLayer RB7.6-15               1401.574      5826.772      90       "Polarized Capacitor (Radial)"                                                 
+C2         "Cap Pol1"    TopLayer RB7.6-15               2590.552      5826.770      270      "Polarized Capacitor (Radial)"                                                 
+C3         "Cap Pol1"    TopLayer RB7.6-15               2590.552      4566.930      270      "Polarized Capacitor (Radial)"                                                 
+C4         Cap           TopLayer RAD-0.3                3354.330      4566.928      360      Capacitor                                                                      
+C5         Cap           TopLayer RAD-0.3                3354.330      3818.896      360      Capacitor                                                                      
+C6         "Cap Pol1"    TopLayer RB7.6-15               1401.574      4566.930      0        "Polarized Capacitor (Radial)"                                                 
+C7         Cap           TopLayer RAD-0.3                3354.330      1850.392      180      Capacitor                                                                      
+C8         Cap           TopLayer RAD-0.3                3354.330      2598.424      180      Capacitor                                                                      
+C9         "Cap Pol1"    TopLayer RB7.6-15               444.882       4566.930      360      "Polarized Capacitor (Radial)"                                                 
+P1         IN-PORT       TopLayer HDR1X2                 3543.306      3199.606      90       "Header, 2-Pin"                                                                
+P2         OUT-PORT      TopLayer HDR1X2                 393.702       3198.032      270      "Header, 2-Pin"                                                                
+P3         LED-PORT      TopLayer HDR1X2                 2046.062      5314.960      360      "Header, 2-Pin"                                                                
+P4         2PDT-PORT     TopLayer HDR1X2                 1190.158      393.700       180      "Header, 2-Pin"                                                                
+P5         3PDT-PORT     TopLayer HDR1X9                 590.552       1841.732      270      "Header, 9-Pin"                                                                
+P6         VOLT-PORT     TopLayer HDR1X2                 660.236       5905.510      360      "Header, 2-Pin"                                                                
+P7         PROG-PORT     TopLayer HDR1X5                 1725.198      393.700       180      "Header, 5-Pin"                                                                
+P8         RB8-PORT      TopLayer HDR1X2                 2745.276      393.700       180      "Header, 2-Pin"                                                                
+P9         MCLR-PORT     TopLayer HDR1X3                 2321.260      393.700       180      "Header, 3-Pin"                                                                
+P10        AN11-PORT     TopLayer HDR1X3                 3354.330      5314.960      180      "Header, 3-Pin"                                                                
+P11        STEREO-PORT1  TopLayer HDR1X2                 660.236       5551.182      360      "Header, 2-Pin"                                                                
+P12        STEREO-PORT2  TopLayer HDR1X2                 660.238       5314.962      360      "Header, 2-Pin"                                                                
+P13        DSPIC-1-20    TopLayer HDR2X10                2648.426      1857.086      90       "Header, 10-Pin, Dual row"                                                     
+P14        DSPIC-21-40   TopLayer HDR2X10                1975.196      2536.614      180      "Header, 10-Pin, Dual row"                                                     
+P15        DSPIC-41-60   TopLayer HDR2X10                1292.520      1850.788      270      "Header, 10-Pin, Dual row"                                                     
+P16        DSPIC-61-80   TopLayer HDR2X10                1975.196      1183.858      360      "Header, 10-Pin, Dual row"                                                     
+Q1         LM7805CT/NOPB TopLayer *TO254P1054X470X2600-3 1996.064      5876.378      270      "IC REG LINEAR 5V 1A TO220AB"                                                  
+R1         Res1          TopLayer AXIAL-0.3              590.552       3200.788      90       Resistor                                                                       
+R2         Res1          TopLayer AXIAL-0.3              2059.056      5039.370      180      Resistor                                                                       
+R3         Res1          TopLayer AXIAL-0.3              1200.788      590.550       180      Resistor                                                                       
+R4         Res1          TopLayer AXIAL-0.3              2330.710      590.550       360      Resistor                                                                       
+R5         Res1          TopLayer AXIAL-0.3              2590.552      4015.748      360      Resistor                                                                       
+R6         Res1          TopLayer AXIAL-0.3              2590.552      3818.896      180      Resistor                                                                       
+R7         Res1          TopLayer AXIAL-0.3              3354.330      5039.370      180      Resistor                                                                       
+R8         Res1          TopLayer AXIAL-0.3              3354.330      4842.520      360      Resistor                                                                       
+R9         Res1          TopLayer AXIAL-0.3              3354.330      4291.338      180      Resistor                                                                       
+R10        Res1          TopLayer AXIAL-0.3              3354.330      4094.488      360      Resistor                                                                       
+R11        Res1          TopLayer AXIAL-0.3              429.134       5464.568      270      Resistor                                                                       
+R12        Res1          TopLayer AXIAL-0.3              1401.576      4015.748      360      Resistor                                                                       
+R13        Res1          TopLayer AXIAL-0.3              3354.332      1377.952      360      Resistor                                                                       
+R14        Res1          TopLayer AXIAL-0.3              3354.332      1574.802      180      Resistor                                                                       
+R15        Res1          TopLayer AXIAL-0.3              3354.332      2125.984      360      Resistor                                                                       
+R16        Res1          TopLayer AXIAL-0.3              3354.332      2322.834      180      Resistor                                                                       
+R17        Res1          TopLayer AXIAL-0.3              444.882       4015.748      180      Resistor                                                                       
+U1         LM324N        TopLayer *DIP254P762X508-14     2015.354      3171.653      0        "Ic Opamp Gp 1.2mhz 14dip"                                                     

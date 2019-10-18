@@ -3,7 +3,7 @@ A dsPIC-based guitar pedal.
 
 ## Circuit
 
-Designed using Altium Designer v17.1.5 Build 472. Based around a breakout board for a dsPIC60F6014A-PF microcontroller designed and sold by Mikroelektronika (see Resources for documentation). Third party models sourced from [SnapEDA](https://www.snapeda.com/home/) included in the `circuit` directory.
+The circuit is designed using Altium Designer v17.1.5 Build 472. It is based around a breakout board for the dsPIC60F6014A-PF microcontroller designed and sold by Mikroelektronika (see Resources for documentation). Third party models sourced from [SnapEDA](https://www.snapeda.com/home/). All the project files (including the third party models) can be found in the `circuit` directory.
 
 ## Code
 

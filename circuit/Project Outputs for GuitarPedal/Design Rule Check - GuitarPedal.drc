@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\arman\Documents\ETF\PMBS\Altium\GuitarPedal\GuitarPedal.PcbDoc
-Date     : 17/10/2019
-Time     : 18:44:32
+Date     : 18/10/2019
+Time     : 12:56:44
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -30,7 +30,7 @@ Rule Violations :0
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=0.21mm) (IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00

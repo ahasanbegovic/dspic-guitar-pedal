@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 18:55:05 On 17/10/2019
+Start Output Generation At 13:23:13 On 18/10/2019
 
-Output: Export STEP
-Type  : ExportSTEP
-From  : Variant [[No Variations]] of PCB Document [GuitarPedal.PcbDoc]
-   Generated File[GuitarPedal.step]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [GuitarPedal.PrjPcb]
+   Generated File[Bill of Materials-GuitarPedal.xls]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 18:55:05 On 17/10/2019
+Finished Output Generation At 13:23:18 On 18/10/2019
